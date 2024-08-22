@@ -19,7 +19,7 @@ This project is a Vendor Management System developed using Node.js. The system m
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/vendor-management-system.git
+   https://github.com/avnishrai569/Vendor_Management_System.git
    cd vendor-management-system
 ## install dependecies 
 
